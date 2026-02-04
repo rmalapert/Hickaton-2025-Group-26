@@ -1,0 +1,10 @@
+Métrique,Valeur
+Total Colonnes,307.0
+Total Lignes,1172086.0
+Variables Numériques,304.0
+Variables Catégorielles,3.0
+Colonnes Complètes (0% manquant),15.0
+Colonnes à Supprimer (>50% manquant),206.0
+Colonnes à Imputer (10-50% manquant),82.0
+Taux Moyen de Remplissage (%),40.74
+Utilisation Mémoire (MB),2897.63
