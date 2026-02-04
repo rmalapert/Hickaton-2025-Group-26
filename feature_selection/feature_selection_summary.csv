@@ -1,0 +1,9 @@
+Métrique,Valeur
+Total Features Analysées,253
+Features avec |r| > 0.3,13
+Features Top 10% (Recommandées),26
+Features Top 50 (Très Recommandées),50
+Features communes aux 3 méthodes,8
+Corrélation max avec Math Score,0.4380
+RF Importance max,0.2105
+Mutual Info max,0.7636
